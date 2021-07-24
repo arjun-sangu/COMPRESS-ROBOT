@@ -1,15 +1,3 @@
-# VideoCompress
-![GitHub Repo stars](https://img.shields.io/github/stars/MRK-YT/MT-VideoCompress?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/MRK-YT/MT-VideoCompress?color=green&style=flat)
-![GitHub issues](https://img.shields.io/github/issues/MRK-YT/MT-VideoCompress)
-![GitHub closed issues](https://img.shields.io/github/issues-closed/MRK-YT/MT-VideoCompress)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/MRK-YT/MT-VideoCompress)
-![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/MRK-YT/MT-VideoCompress)
-![GitHub contributors](https://img.shields.io/github/contributors/MRK-YT/MT-VideoCompress?style=flat)
-![GitHub repo size](https://img.shields.io/github/repo-size/MRK-YT/MT-VideoCompress?color=red)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/MRK-YT/MT-VideoCompress)
-![GitHub](https://img.shields.io/github/license/MRK-YT/MT-VideoCompress)
-[![Bot Support](https://img.shields.io/badge/Video%20Compress%20Bot-support%20group-blue)](https://t.me/mo_tech_yt)
 
 A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **This bot works for all!** No need to define each user IDs to use bot. Also works in Group.
 
@@ -30,7 +18,7 @@ A Telegram Video Compressor Bot By [@AbirHasan2005](https://t.me/linux_repo). **
 <a href="https://t.me/MT_VideoCompress_Logs"><img src="https://img.shields.io/badge/Demo-Bot%20Logs%20Channel-blue.svg?logo=telegram"></a>
 
 ## Easy Deploy:
-<p><a href="https://heroku.com/deploy"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a></p>
+<p><a href="https://heroku.com/deploy"> <href="https://heroku.com/deploy?template=https://github.com/arjunsangu/COMPRESS-ROBOT">
 
 #### Video Tutorial:
 <a href="https://youtu.be/lb-JJLqyww4"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a>
